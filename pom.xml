@@ -10,7 +10,6 @@
         <version>1.0.0.RELEASE</version>
     </parent>
 
-    <groupId>com.lcn29</groupId>
     <artifactId>lcn-gateway</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
